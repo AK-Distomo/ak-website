@@ -1,0 +1,4 @@
+sed
+===
+Konvertiert Umlaute in Unicode-Zeichen:
+sed -i 's/\ä/\&auml\;/g;s/\Ä/\&Auml\;/g;s/\ö/\&ouml\;/g;s/\Ö/\&Ouml\;/g;s/\ü/\&uuml\;/g;s/\Ü/\&Uuml\;/g;s/\ß/\&szlig\;/g;s/\"/\&rdquo\;/g;s/\„/\&rdquo\;/g;s/\“/\&rdquo\;/g;' convert2Unicode.txt
