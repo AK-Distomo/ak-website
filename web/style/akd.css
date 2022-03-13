@@ -1,0 +1,53 @@
+body{
+	background-color: #80c3ee;
+	font-family: Verdana, Arial, Tahoma, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.navi {
+	font-size: 12px;
+	line-height: 20px;
+}
+.content{
+	font-size: 12px;
+	line-height: 14px;
+	background-color: #c5e1f6;
+}
+.box {
+	margin: 10px;
+	padding: 2px;
+}
+h1{
+	font-size:22px;
+	line-height: 26px;
+	color: #234675;
+}
+h2{
+	font-size: 18px;
+	line-height: 22px;
+	color: #234675;
+}
+h3{
+	font-size: 14px;
+	line-height: 16px;
+	color: #234675;
+}
+h4{
+	font-size: 12px;
+	line-height: 16px;
+	color: #234675;
+}
+a:link{
+	color: #234675;
+	text-decoration: underline;
+}
+a:visited{
+	color: #234675;
+	text-decoration: underline;
+}
+a:hover{
+	color: #CC0033;
+	text-decoration: underline;
+}
+td.date {
+	font-weight: 800; 
+	}
