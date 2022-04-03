@@ -1,2 +1,2 @@
 # ak-website
-XXX Webseite des AK Distomo
+Webseite des AK Distomo
