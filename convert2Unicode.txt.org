@@ -1,24 +1,28 @@
-Die Stiftung Auschwitz-Komitee verleiht den Hans-Frankenthal-Preis 2023
-
-Die Preisverleihung findet am *Donnerstag, 19. Oktober 2023, 19 Uhr im Lichthof der Staats- und Universitätsbibliothek Carl von Ossietzky*, Von-Melle-Park 3, 20146 Hamburg, statt. Musikalische Begleitung: Lina und die Roten Sterne, Gastauftritt: Thommy von Freidenkeralarm
-
-Die diesjährigen Preisträger*innen sind:
-Die „Kinder des Widerstands“ mit ihrem Buchprojekt zu Martha und Harry Naujoks und die Kuseler Gruppe „Kein Bock auf Nazis-Festival - Wochenende GEGEN das Vergessen“.
-
-Die „Kinder des Widerstands" gibt es in Hamburg seit 2017. Alle Mitglieder sind Angehörige von Verfolgten des Nazi-Regimes und/oder Widerstandskämpfer*innen. Sie erhalten den Hans-Frankenthal-Preis für ihr neustes Buchprojekt, zu Leben und Wirken der kommunistischen Widerstandskämpfer*innen Martha und Harry Naujoks. Der geplante Doppelband enthält die Biographie von Martha Naujoks, verfasst von dem Historiker Henning Fischer, und die Neuedition von Harry Naujoks Bericht „Mein Leben im KZ Sachsenhausen“.
-
-Im rheinland-pfälzischen Kusel zeigt sich, wie in vielen ländlichen Regionen, ein zunehmender Druck von Rechts, indem rassistische, faschistische und antisemitische Inhalte wieder vermehrt öffentlich zur Schau getragen werden. Dass dies nicht unwidersprochen bleibt, dass nicht vergessen wird, was einst geschah, zu mahnen, aufzuklären, zu zeigen, dass ein anderes Leben möglich ist, und Formen des Widerstands gegen diese Entwicklung deutlich zu machen, ist das Anliegen des „Wochenende gegen das Vergessen- Kein Bock auf Nazis-Festival“.
-
-Der Kampf gegen den alten und neuen Faschismus verbindet beide Projekte. Martha und Harry Naujoks mussten gegen den Faschismus an der Macht kämpfen. Viel zu viele ihrer Mitstreiter*innen und Leidensgenoss*innen haben den Nazi-Terror nicht überlebt. Heute ist der Faschismus nicht an der Macht, aber von „wehret den Anfängen“ können wir schon lange nicht mehr sprechen.
-
-Das rheinland-pfälzische Kusel gehört zu den Orten, an denen Rechte versuchen Einfluss zu gewinnen, nicht zuletzt auf die Herzen und Köpfe der nächsten Generation. Und es geht schon heute darum, ob sich Menschen, die von den Faschisten als „minderwertig“ angesehen werden, ohne Angst auf den Straßen und Plätzen bewegen können: People of Color, Lesben, Schwule, Sinti, Juden, Roma ...
-
-Die Stiftung Auschwitz-Komitee hat in den 13 Jahren ihres Bestehens viele Gruppen kennenlernen dürfen, die sich auf unterschiedlichste Weise „im Geiste der Menschlichkeit“ (Harry Naujoks) zusammenfinden, um gegen die Inhumanität der Faschist*innen aktiv zu werden. Das gibt Hoffnung, aber es müssen noch viel mehr werden, die für eine solidarische Gesellschaft kämpfen.
-
-Die Stiftung Auschwitz-Komitee hat es sich zur Aufgabe gemacht, genau solche Gruppen und Initiativen zu unterstützen, die für ein solidarisches Miteinander und den Widerstand gegen den Faschismus stehen.
-
--- 
-Stiftung-Auschwitz-Komitee
-Stiftung des Bürgerlichen Rechts
-          kontakt@stiftung-auschwitz-komitee.de
-www.stiftung-auschwitz-komitee.de
+            <h2>
+                "Als am 13. Dezember 1943 die Kirchturmuhr stehen blieb."<br>
+                Das Wehrmachts-Verbrechen in Kalavryta.
+            </h2>
+            <h4>
+                Bereits 2021 wurde das Hörspiel "Kalavryta" veröffentlicht.
+                Der erzählerische Rahmen des Hörspiels ist die Darstellung von Franzeska Nika,
+                die das Massaker überlebt hatte.<br>
+                <a href="https://kalavryta-hoerspiel.de/" target="_new">https://kalavryta-hoerspiel.de/</a>
+            </h4>
+            Das Hörspiel "Kalavryta" thematisiert ein als "Rachefeldzug" getarntes Massaker der deutschen Wehrmacht
+            in der Gegend von Kalavryta, einer griechischen Kleinstadt im Norden der Peloponnes, im Jahr 1943. Viele
+            hundert Zivilisten ab 14 Jahren wurden dort ermordet. Im Oktober 1943 waren rund 80 deutsche Soldaten
+            bei Kalavryta gefangen genommen und später erschossen worden. Die 117. Jäger-Division begann daraufhin
+            "schärfste Sühnemaßnahmen" und Vergeltungsaktionen gegen die Zivilbevölkerung. Diese hatten zur Folge,
+            dass Kalavryta, weitere 22 Ortschaften sowie drei Klöster zerstört wurden, darunter das hellenische
+            Nationalheiligtum Agia Lavra, wo 1821 der Überlieferung zufolge der Befreiungskrieg gegen das Osmanische
+            Reich ausgerufen worden war. Nach Zählungen der Wehrmacht wurden 676 Zivilisten exekutiert. Die Plünderungen
+            und Zerstörungen hinterließen Krankheiten und Hungersnot. Die Spuren dessen sind bis heute lebendig, was
+            auch Anlass einer Reise von Hamburger Jugendlichen im Jahr 2017 war, die mit ihren Erfahrungen und
+            einigen Klischees im Hörspiel ebenso zu Gehör kommen. Mit Klanglandschaften und verschiedenen
+            Augenzeugenberichten erinnert das Hörspiel an die Ereignisse während des Zweiten Weltkriegs. Den
+            erzählerische Rahmen bietet die Darstellung von Franzeska Nika, die das Massaker er- und überlebte und
+            ihre Erlebnisse poetisch in Worte fasste.<br>
+            <br>
+            Der griechische Ort Kalavryta steht stellvertretend für jene NS-Verbrechen, die
+            bei Widerstand als "Vergeltungsaktionen" vor allem in Ost- und Südosteuropa ein flächendeckendes
+            Instrument der nationalsozialistischen Besatzungspolitik waren.

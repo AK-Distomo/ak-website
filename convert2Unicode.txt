@@ -1,24 +1,28 @@
-Die Stiftung Auschwitz-Komitee verleiht den Hans-Frankenthal-Preis 2023
-
-Die Preisverleihung findet am *Donnerstag, 19. Oktober 2023, 19 Uhr im Lichthof der Staats- und Universit&auml;tsbibliothek Carl von Ossietzky*, Von-Melle-Park 3, 20146 Hamburg, statt. Musikalische Begleitung: Lina und die Roten Sterne, Gastauftritt: Thommy von Freidenkeralarm
-
-Die diesj&auml;hrigen Preistr&auml;ger*innen sind:
-Die &rdquo;Kinder des Widerstands&rdquo; mit ihrem Buchprojekt zu Martha und Harry Naujoks und die Kuseler Gruppe &rdquo;Kein Bock auf Nazis-Festival - Wochenende GEGEN das Vergessen&rdquo;.
-
-Die &rdquo;Kinder des Widerstands&rdquo; gibt es in Hamburg seit 2017. Alle Mitglieder sind Angeh&ouml;rige von Verfolgten des Nazi-Regimes und/oder Widerstandsk&auml;mpfer*innen. Sie erhalten den Hans-Frankenthal-Preis f&uuml;r ihr neustes Buchprojekt, zu Leben und Wirken der kommunistischen Widerstandsk&auml;mpfer*innen Martha und Harry Naujoks. Der geplante Doppelband enth&auml;lt die Biographie von Martha Naujoks, verfasst von dem Historiker Henning Fischer, und die Neuedition von Harry Naujoks Bericht &rdquo;Mein Leben im KZ Sachsenhausen&rdquo;.
-
-Im rheinland-pf&auml;lzischen Kusel zeigt sich, wie in vielen l&auml;ndlichen Regionen, ein zunehmender Druck von Rechts, indem rassistische, faschistische und antisemitische Inhalte wieder vermehrt &ouml;ffentlich zur Schau getragen werden. Dass dies nicht unwidersprochen bleibt, dass nicht vergessen wird, was einst geschah, zu mahnen, aufzukl&auml;ren, zu zeigen, dass ein anderes Leben m&ouml;glich ist, und Formen des Widerstands gegen diese Entwicklung deutlich zu machen, ist das Anliegen des &rdquo;Wochenende gegen das Vergessen- Kein Bock auf Nazis-Festival&rdquo;.
-
-Der Kampf gegen den alten und neuen Faschismus verbindet beide Projekte. Martha und Harry Naujoks mussten gegen den Faschismus an der Macht k&auml;mpfen. Viel zu viele ihrer Mitstreiter*innen und Leidensgenoss*innen haben den Nazi-Terror nicht &uuml;berlebt. Heute ist der Faschismus nicht an der Macht, aber von &rdquo;wehret den Anf&auml;ngen&rdquo; k&ouml;nnen wir schon lange nicht mehr sprechen.
-
-Das rheinland-pf&auml;lzische Kusel geh&ouml;rt zu den Orten, an denen Rechte versuchen Einfluss zu gewinnen, nicht zuletzt auf die Herzen und K&ouml;pfe der n&auml;chsten Generation. Und es geht schon heute darum, ob sich Menschen, die von den Faschisten als &rdquo;minderwertig&rdquo; angesehen werden, ohne Angst auf den Stra&szlig;en und Pl&auml;tzen bewegen k&ouml;nnen: People of Color, Lesben, Schwule, Sinti, Juden, Roma ...
-
-Die Stiftung Auschwitz-Komitee hat in den 13 Jahren ihres Bestehens viele Gruppen kennenlernen d&uuml;rfen, die sich auf unterschiedlichste Weise &rdquo;im Geiste der Menschlichkeit&rdquo; (Harry Naujoks) zusammenfinden, um gegen die Inhumanit&auml;t der Faschist*innen aktiv zu werden. Das gibt Hoffnung, aber es m&uuml;ssen noch viel mehr werden, die f&uuml;r eine solidarische Gesellschaft k&auml;mpfen.
-
-Die Stiftung Auschwitz-Komitee hat es sich zur Aufgabe gemacht, genau solche Gruppen und Initiativen zu unterst&uuml;tzen, die f&uuml;r ein solidarisches Miteinander und den Widerstand gegen den Faschismus stehen.
-
--- 
-Stiftung-Auschwitz-Komitee
-Stiftung des B&uuml;rgerlichen Rechts
-          kontakt@stiftung-auschwitz-komitee.de
-www.stiftung-auschwitz-komitee.de
+            <h2>
+                &rdquo;Als am 13. Dezember 1943 die Kirchturmuhr stehen blieb.&rdquo;<br>
+                Das Wehrmachts-Verbrechen in Kalavryta.
+            </h2>
+            <h4>
+                Bereits 2021 wurde das H&ouml;rspiel &rdquo;Kalavryta&rdquo; ver&ouml;ffentlicht.
+                Der erz&auml;hlerische Rahmen des H&ouml;rspiels ist die Darstellung von Franzeska Nika,
+                die das Massaker &uuml;berlebt hatte.<br>
+                <a href=&rdquo;https://kalavryta-hoerspiel.de/&rdquo; target=&rdquo;_new&rdquo;>https://kalavryta-hoerspiel.de/</a>
+            </h4>
+            Das H&ouml;rspiel &rdquo;Kalavryta&rdquo; thematisiert ein als &rdquo;Rachefeldzug&rdquo; getarntes Massaker der deutschen Wehrmacht
+            in der Gegend von Kalavryta, einer griechischen Kleinstadt im Norden der Peloponnes, im Jahr 1943. Viele
+            hundert Zivilisten ab 14 Jahren wurden dort ermordet. Im Oktober 1943 waren rund 80 deutsche Soldaten
+            bei Kalavryta gefangen genommen und sp&auml;ter erschossen worden. Die 117. J&auml;ger-Division begann daraufhin
+            &rdquo;sch&auml;rfste S&uuml;hnema&szlig;nahmen&rdquo; und Vergeltungsaktionen gegen die Zivilbev&ouml;lkerung. Diese hatten zur Folge,
+            dass Kalavryta, weitere 22 Ortschaften sowie drei Kl&ouml;ster zerst&ouml;rt wurden, darunter das hellenische
+            Nationalheiligtum Agia Lavra, wo 1821 der &Uuml;berlieferung zufolge der Befreiungskrieg gegen das Osmanische
+            Reich ausgerufen worden war. Nach Z&auml;hlungen der Wehrmacht wurden 676 Zivilisten exekutiert. Die Pl&uuml;nderungen
+            und Zerst&ouml;rungen hinterlie&szlig;en Krankheiten und Hungersnot. Die Spuren dessen sind bis heute lebendig, was
+            auch Anlass einer Reise von Hamburger Jugendlichen im Jahr 2017 war, die mit ihren Erfahrungen und
+            einigen Klischees im H&ouml;rspiel ebenso zu Geh&ouml;r kommen. Mit Klanglandschaften und verschiedenen
+            Augenzeugenberichten erinnert das H&ouml;rspiel an die Ereignisse w&auml;hrend des Zweiten Weltkriegs. Den
+            erz&auml;hlerische Rahmen bietet die Darstellung von Franzeska Nika, die das Massaker er- und &uuml;berlebte und
+            ihre Erlebnisse poetisch in Worte fasste.<br>
+            <br>
+            Der griechische Ort Kalavryta steht stellvertretend f&uuml;r jene NS-Verbrechen, die
+            bei Widerstand als &rdquo;Vergeltungsaktionen&rdquo; vor allem in Ost- und S&uuml;dosteuropa ein fl&auml;chendeckendes
+            Instrument der nationalsozialistischen Besatzungspolitik waren.
